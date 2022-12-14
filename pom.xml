@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.nopcommerce</groupId>
-  <artifactId>nopcommerce-sw5-pagefactory-viral</artifactId>
+  <artifactId>nopcommerce-week15-maven-manishvora</artifactId>
   <version>1.0-SNAPSHOT</version>
   <build>
     <plugins>
@@ -19,7 +19,7 @@
   </build>
   <packaging>jar</packaging>
 
-  <name>nopcommerce-sw5-pagefactory-viral</name>
+  <name>nopcommerce-week15-maven-manishvora</name>
   <url>http://maven.apache.org</url>
 
   <properties>
